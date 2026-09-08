@@ -1,6 +1,5 @@
 Hello happy world!
 
-
 Otra cosa
 
 Line 2
